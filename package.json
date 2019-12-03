@@ -2,7 +2,7 @@
   "name": "VSCodeJS",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest"
+    "test": "jest --json"
   },
   "dependencies": {
     "jest": "^24.9.0"
